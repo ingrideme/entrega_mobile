@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:controls="clr-namespace:CardViewDemo.Controls"
+             mc:Ignorable="d"
+             x:Class="CardViewDemo.CardViewXamlPage"
+             Title="Entrega Mobile"
+             Padding="10">
+    <ScrollView>
+        <StackLayout>
+            <controls:CardView BorderColor="DarkGray"
+                               CardTitle="Cardview número um"
+                               CardDescription="111111111."
+                               IconBackgroundColor="SlateGray"
+                               IconImageSource="user.png" />
+            <controls:CardView BorderColor="DarkGray"
+                               CardTitle="Outro CardView (o dois)"
+                               CardDescription="2222222222"
+                               IconBackgroundColor="SlateGray"
+                               IconImageSource="user.png" />
+            <controls:CardView BorderColor="DarkGray"
+                               CardTitle="Mais um (o três)"
+                               CardDescription="Que é o 333333"
+                               IconBackgroundColor="SlateGray"
+                               IconImageSource="user.png" />
+            <controls:CardView BorderColor="DarkGray"
+                               CardTitle="Quarto e ultimo"
+                               CardDescription="Last one."
+                               IconBackgroundColor="SlateGray"
+                               IconImageSource="user.png" />
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

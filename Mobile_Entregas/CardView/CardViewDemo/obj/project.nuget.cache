@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "swa3GdusxVmM/JaWL2R6j8SyWaLmgk+a4+q2leCtpPVRgn3UXf6xDYElFIxRe5wWEIQlAbdbPVfS67en4smJJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tinho\\Desktop\\Xamarin_Forms___ContentView_Demos\\CardViewDemo\\CardViewDemo\\Mobile_CardView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Tinho\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}
